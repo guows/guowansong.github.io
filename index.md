@@ -29,7 +29,7 @@ div
     width: 280px;
     height: 280px;
     position: relative;
-    margin: 0 auto;
+    margin: 0 auto; 
     border-style: none;
     border: 3px solid #BBADA0;
     background-color: #CCC0B3;
