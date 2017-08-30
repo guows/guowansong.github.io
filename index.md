@@ -1,8 +1,4 @@
 <html>
-<head> 
-<div class="container text-center" id="2048">
-</div> 
-<html>
 <body><Center><input type="button" value="GAME-2048" onclick="f();"></Center>
 </body>
 </html> 
