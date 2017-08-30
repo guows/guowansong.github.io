@@ -1,5 +1,5 @@
 <html>
-<body><Center><input type="button" value="2048游戏" onclick="f();"></Center>
+<body><Center><input type="button" value="进入游戏" onclick="f();"></Center>
 </body>
 </html> 
 
